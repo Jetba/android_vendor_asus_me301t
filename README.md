@@ -1,2 +1,2 @@
-android_vendor_me301t
+Vendor files for ME301T
 =====================
